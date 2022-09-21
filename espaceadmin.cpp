@@ -410,8 +410,8 @@ void EspaceAdmin::on_PDF_clicked()
                        <<  QString("<title>%1</title>\n").arg("eleve")
                        <<  "</head>\n"
                        "<body bgcolor=#F4B8B8 link=#5000A0>\n"
-                          // "<img src='C:/Users/ksemt/Desktop/final/icon/logo.webp' width='20' height='20'>\n"
-                           "<img src='C:/Users/DeLL/Desktop/logooo.png' width='100' height='100'>\n"
+                          // "<img src='C:/Users/Windows/Desktop/SujetQT/logo.jpg' width='20' height='20'>\n"
+                           "<img src='C:/Users/Windows/Desktop/SujetQT/logo.jpg' width='100' height='100'>\n"
                            "<h1> Liste des Client </h1>"
                             "<h1>  </h1>"
 
